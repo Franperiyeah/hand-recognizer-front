@@ -27,5 +27,5 @@ Para instalar y configurar el proyecto localmente, sigue estos pasos:
 
 ```bash
 git clone https://github.com/Franperiyeah/hand-recognizer-front.git
-cd hand-gesture-recognition
+cd hand-recognizer-front
 npm install
